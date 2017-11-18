@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hackaton</string>
+    <string name="facebook_app_id">291273331384429</string>
+    <string name="fb_login_protocol_scheme">fb291273331384429</string>
+</resources>
